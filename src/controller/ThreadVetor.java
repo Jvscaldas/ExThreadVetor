@@ -23,7 +23,7 @@ public class ThreadVetor extends Thread {
 				a = vet[i];
 			}
 		} else {
-			for (int b : this.vet) {
+			for (int b : vet) {
 				a = b;
 			}
 		}
